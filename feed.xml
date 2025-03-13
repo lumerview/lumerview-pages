@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Lumerview</title>
+    <link href="https://lumerview.com/feed.xml" rel="self" />
+    <link href="https://lumerview.com" />
+    <updated>2025-03-13T22:01:15+02:00</updated>
+    <author>
+        <name>Lumerview</name>
+    </author>
+    <id>https://lumerview.com</id>
+
+    <entry>
+        <title>Lumerview</title>
+        <author>
+            <name>Lumerview</name>
+        </author>
+        <link href="https://lumerview.com/magazine-2.html"/>
+        <id>https://lumerview.com/magazine-2.html</id>
+
+        <updated>2025-03-13T22:01:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Issue 01: 2025 – The First Light Welcome to the inaugural issue of LumerView Magazine, where we explore the art of seeing—the way filmmakers,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><strong>Issue 01: 2025 – The First Light</strong></h3>
+<p>Welcome to the inaugural issue of <strong>LumerView Magazine</strong>, where we explore the art of seeing—the way filmmakers, photographers, and storytellers capture the world and how everyday people become the heart of their work.</p>
+<p> </p>
+<p><strong>Coming soon.</strong></p>
+<p>
+<script src="https://cdn.tailwindcss.com"></script>
+</p>
+<p><!-- Magazine Preview Element --></p>
+<div class="max-w-4xl mx-auto my-10 p-6 bg-white shadow-lg rounded-lg text-center">
+<div class="relative"><figure class="post__image"><img loading="lazy"  src="https://i.ibb.co/pBNT9Fzx/Lumin.jpg" data-is-external-image="true"  alt="Magazine Cover" width="2560" height="1726"></figure>
+<div class="absolute inset-0 bg-black bg-opacity-40 flex justify-center items-center opacity-0 hover:opacity-100 transition-opacity"><a href="#" class="text-white text-lg font-bold bg-red-600 px-4 py-2 rounded">Read Now</a></div>
+</div>
+<h3 class="text-2xl font-semibold mt-4">Latest Issue</h3>
+<p class="text-gray-600 mt-2">Explore the latest edition featuring exclusive interviews and stunning visuals.</p>
+</div>
+<hr>
+<h3><strong>Illuminating Stories. Unveiling Perspectives.</strong></h3>
+<p>At <strong>LumerView</strong>, we believe that art isn’t just created—it’s lived. Every month, we curate a stunning collection of work from visionary <strong>artists, filmmakers, and photographers</strong>, alongside the untold stories of everyday people—the very souls who inspire films, novels, and art.</p>
+<p> </p>
+<p>From the quiet dreamers to the bold storytellers, LuminView shines a light on the perspectives that often go unnoticed. We celebrate the intersection of <strong>cinema, photography, and narrative</strong>, showcasing the raw beauty of human experience through visual and written storytelling.</p>
+<p> </p>
+<p>Each issue is a <strong>cinematic journey</strong>, blending breathtaking imagery, compelling interviews, and intimate essays that explore the worlds of both the creators and their muses. Whether it’s an indie filmmaker capturing life’s fleeting moments, a street photographer revealing the poetry of the mundane, or an artist transforming reality into canvas—we bring you <strong>stories that resonate, provoke, and inspire</strong>.</p>
+<p> </p>
+<p>At LuminView, we don’t just observe. <strong>We illuminate.</strong></p>
+<p>Join us as we uncover the extraordinary within the ordinary.</p>
+<p>🚀 <strong>Follow the light. Read. Watch. Discover.</strong></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

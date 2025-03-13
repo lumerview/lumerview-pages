@@ -1,1 +1,0 @@
-# lumerview-pages
